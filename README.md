@@ -1,4 +1,5 @@
 # Git Practice
 
-Name: Student Name
-Student ID: 20260000
+Name: JunHyeon
+Date: 20260911
+
