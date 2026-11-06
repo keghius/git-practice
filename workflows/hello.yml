@@ -1,0 +1,8 @@
+name: Hello
+on: push
+jobs:
+  hello:
+    runs-on: ubuntu-latest          #server 정의
+    steps:
+      - run: echo "Hello, World"    #Shell 명령어
+      - uses: actions/checkout@v4   #제 3자가 만든 워크플로우 가져올 때
