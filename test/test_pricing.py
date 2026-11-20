@@ -1,7 +1,7 @@
 import pytest
 
-from orderlab.pricing import subtotal
-from orderlab.pricing import final_total
+from orderlab.pricing import subtotal, final_total
+
 
 
 # == Level 1 : Basic Test Cases ==
